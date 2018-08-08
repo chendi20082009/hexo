@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://blog.chendi.org/"/>
   <updated>2018-07-16T11:59:11.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://blog.chendi.org/</id>
   
   <author>
     <name>chendi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>正式开始写博客</title>
-    <link href="http://yoursite.com/2018/07/17/testpost/"/>
-    <id>http://yoursite.com/2018/07/17/testpost/</id>
+    <link href="https://blog.chendi.org/2018/07/17/testpost/"/>
+    <id>https://blog.chendi.org/2018/07/17/testpost/</id>
     <published>2018-07-16T16:00:00.000Z</published>
     <updated>2018-07-16T11:59:11.000Z</updated>
     
@@ -37,17 +37,17 @@
     
     </summary>
     
-      <category term="心得体会" scheme="http://yoursite.com/categories/%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
+      <category term="心得体会" scheme="https://blog.chendi.org/categories/%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
     
     
-      <category term="杂七杂八" scheme="http://yoursite.com/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+      <category term="杂七杂八" scheme="https://blog.chendi.org/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/16/hello-world/"/>
-    <id>http://yoursite.com/2018/07/16/hello-world/</id>
+    <link href="https://blog.chendi.org/2018/07/16/hello-world/"/>
+    <id>https://blog.chendi.org/2018/07/16/hello-world/</id>
     <published>2018-07-16T07:49:46.000Z</published>
     <updated>2018-07-16T11:55:52.000Z</updated>
     
@@ -62,10 +62,10 @@
     
     </summary>
     
-      <category term="心得体会" scheme="http://yoursite.com/categories/%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
+      <category term="心得体会" scheme="https://blog.chendi.org/categories/%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
     
     
-      <category term="杂七杂八" scheme="http://yoursite.com/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+      <category term="杂七杂八" scheme="https://blog.chendi.org/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
   </entry>
   
