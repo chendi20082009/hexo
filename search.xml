@@ -3,25 +3,10 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2018/08/08/test/"/>
-      <url>/2018/08/08/test/</url>
-      <content type="html"><![CDATA[]]></content>
-      
-      <categories>
-          
-          <category> resources </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
       <title>正式开始写博客</title>
       <link href="/2018/07/17/testpost/"/>
       <url>/2018/07/17/testpost/</url>
-      <content type="html"><![CDATA[<p>水电费胜多负少的</p><p>胜多负少的</p><p><img src="/2018/07/17/testpost/1531731525354.png" alt="1531731525354"></p>]]></content>
+      <content type="html"><![CDATA[<p>水电费胜多负少的</p><p>胜多负少的</p><p><img src="/2018/07/17/testpost/1531731525354.png" alt="1531731525354"><br>sdfsdsdfsfs<br>sfadsfsdfs</p>]]></content>
       
       <categories>
           
@@ -84,17 +69,24 @@
     </entry>
     
     <entry>
-      <title>留言板</title>
-      <link href="/message/index.html"/>
-      <url>/message/index.html</url>
-      <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
-    </entry>
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>history</title>
+      <link href="/history/index.html"/>
+      <url>/history/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>留言板</title>
+      <link href="/message/index.html"/>
+      <url>/message/index.html</url>
+      <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
     </entry>
     
     <entry>
