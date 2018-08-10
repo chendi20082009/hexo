@@ -48,13 +48,6 @@
   
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
       <title>badminton</title>
       <link href="/badminton/index.html"/>
       <url>/badminton/index.html</url>
@@ -62,16 +55,23 @@
     </entry>
     
     <entry>
-      <title>history</title>
-      <link href="/history/index.html"/>
-      <url>/history/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>history</title>
+      <link href="/history/index.html"/>
+      <url>/history/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -90,17 +90,17 @@
     </entry>
     
     <entry>
+      <title>shuoshuo</title>
+      <link href="/shuoshuo/index.html"/>
+      <url>/shuoshuo/index.html</url>
+      <content type="html"><![CDATA[<p>这里是我的说说。</p><p>const myTheme = {<br>  render(state, instance) {<br>    const container = document.createElement(‘div’)<br>    container.lang = “en-US”<br>    container.className = ‘gitment-container gitment-root-container’<br>    container.appendChild(instance.renderHeader(state, instance))<br>    container.appendChild(instance.renderEditor(state, instance))<br>    container.appendChild(instance.renderComments(state, instance))<br>    container.appendChild(instance.renderFooter(state, instance))<br>    return container<br>  },<br>}</p><p>const gitment = new Gitment({<br>  // …<br>  theme: myTheme,<br>})</p><p>gitment.render(‘container’)</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '页面 ID', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('container')</script>]]></content>
+    </entry>
+    
+    <entry>
       <title>Scholar</title>
       <link href="/scholar/index.html"/>
       <url>/scholar/index.html</url>
       <content type="html"><![CDATA[<p><strong>1. 个人经历（career）</strong>  </p><p>2006.09-2009.06：开封市高级中学</p><p>2009.09-2013.06：武汉大学 化学基地班 本科</p><p>2013.09-2018.06：武汉大学 分析化学 硕博连读</p><p>2018.07-至今：郑州大学 药学院 药物分析 讲师</p><p><strong>2. 研究论文（research paper）</strong><br>（1）S.T. Wang, <strong>D. Chen</strong>, J. Ding, B.F. Yuan, Y.Q. Feng, Borated titania, a new option for the selective enrichment of cis-diol biomolecules. <strong><em>Chemistry – A European Journal</em></strong> 2013, 19, 606-612. <a href="http://dx.doi.org/10.1002/chem.201203109" target="_blank" rel="noopener">DOI:10.1002/chem.201203109 </a><br>（2）<strong>D. Chen</strong>, Y.Q. Huang, X.M. He, Z.G. Shi, Y.Q. Feng, Coupling carbon nanotube film microextraction with desorption corona beam ionization for rapid analysis of Sudan dyes (I-IV) and Rhodamine B in chilli oil. <strong><em>Analyst</em></strong>. 2015, 140, 1731-1738. <a href="http://dx.doi.org/10.1039/C4AN02044H" target="_blank" rel="noopener">DOI:10.1039/C4AN02044H</a><br>（3）<strong>D. Chen</strong>, H.B. Zheng, Y.Q. Huang, Y.N. Hu, Q.W. Yu, B.F. Yuan, Y.Q. Feng, Magnetic solid phase extraction coupled with desorption corona beam ionization-mass spectrometry for rapid analysis of antidepressants in human body fluids. <strong><em>Analyst</em></strong>. 2015, 140, 5662-5670. <a href="http://dx.doi.org/10.1039/C5AN00992H" target="_blank" rel="noopener">DOI:10.1039/C5AN00992H</a><br>（4）<strong>D. Chen</strong>, Y.-N. Hu, D. Hussain, G.-T. Zhu, Y.-Q. Huang, Y.-Q. Feng, Electrospun fibrous thin film microextraction coupled with desorption corona beam ionization-mass spectrometry for rapid analysis of antidepressants in human plasma. <strong><em>Talanta</em></strong> 2016, 152, 188-195.<a href="http://dx.doi.org/10.1016/j.talanta.2016.02.003" target="_blank" rel="noopener">DOI：10.1016/j.talanta.2016.02.003  </a><br>（5）<strong>D. Chen</strong>, J. Ding, M.K. Wu, T.Y. Zhang, C.B. Qi, Y.Q. Feng, A liquid chromatography–mass spectrometry method based on post column derivatization for automated analysis of urinary hexanal and heptanal. <strong>J. Chromatogr. <em>A</em></strong> 2017, 1493, 57-63. <a href="http://dx.doi.org/10.1016/j.chroma.2017.02.071" target="_blank" rel="noopener">DOI:10.1016/j.chroma.2017.02.071</a><br>（6）<strong>D Chen</strong>, Y.N. Hu, T.Y. Zhang, J.Ding, Y.Q. Feng. A liquid chromatography–mass spectrometry method employing post-column derivatization based on a bisulfite addition reaction for the rapid detection and quantification of aldehydes in complex samples. <strong>In preparation</strong><br><strong>3. 学术会议（academic conference）</strong><br>（1）<strong>陈迪</strong>，黄云清，冯钰锜<em>，碳纳米管膜微萃取-解吸电晕束电离质谱用于辣椒油中苏丹红（I–IV）与罗丹明 B的快速分析，湖北省第十一届色谱学术报告会（武汉，湖北），2014。（会议论文，墙报展示）<br>（2）<strong>Di Chen</strong>, Hao-Bo Zheng, Qiong-Wei Yu, Bi-Feng Yuan, Yu-Qi Feng</em>, Magnetic Solid Phase Extraction Coupled with Desorption Corona Beam Ionization-Mass Spectrometry for Rapid Analysis of Antidepressants in Human Body Fluids, 31st International Symposium on MicroScale Bioseparations (Shanghai, China), 2015. （会议论文，墙报展示）<br>（3）<strong>陈迪</strong>，郑浩博，余琼卫，袁必锋，冯钰锜，磁固相萃取结合解吸电晕束电离质谱用于体液中的三种抗抑郁药的快速分析，中国化学会第十二届全国分析化学年会（武汉，湖北），2015。（会议论文，墙报展示）<br>（4）<strong>陈迪</strong>，郑浩博，余琼卫，袁必锋，冯钰锜，磁固相萃取结合解吸电晕束电离质谱用于体液中的三种抗抑郁药的快速分析，第二届全国质谱分析学术报告会（杭州，浙江），2015。（会议论文，墙报展示）<br>（5）<strong>陈迪</strong>，丁俊，漆楚波，冯钰锜，基于管内固相微萃取与柱后衍生技术的尿液中己醛和庚醛的高效液相色谱-质谱分析方法，2016全国生命分析化学学术大会（南京，江苏），2016。（会议论文，墙报展示）<br>（6）<strong>陈迪</strong>，丁俊，漆楚波，冯钰锜，基于管内固相微萃取与柱后衍生技术的尿液中己醛和庚醛的高效液相色谱-质谱分析方法，第21届全国色谱学术报告会（兰州，甘肃），2017。（会议论文，口头报告）<br>（7）<strong>陈迪</strong>，胡宇宁，张恬意，丁俊，冯钰锜，基于亚硫酸氢根-醛加成反应的柱后衍生技术结合液相色谱-质谱应于醛类的快速分析，中国化学会第31届学术年会（杭州，浙江），2018。（会议论文，墙报展示）<br><strong>4. 申请专利（patent）</strong><br>（1）冯钰锜, <strong>陈迪</strong>, 粉末状磁性吸附剂与常压质谱源的联用分析方法, 专利号: ZL201510055403.0, 授权日期: 2017年6月16。（国家发明专利）<br>（2）冯钰锜，<strong>陈迪</strong>, 胡宇宁，基于亚硫酸氢根与醛加成反应的柱后衍生技术在质谱分析中的应用，申请中。（国家发明专利）<br><strong>5. 研究项目（Foundation）</strong><br>（1）双层固相萃取与硼亲和微萃取联用测定植物体中内源性油菜素内酯，2012.05-2013.03，武汉大学2012年度大学生科学研究项目，S2012207，<strong>负责人</strong>（资助金额：1000元）。<br>（2）基于磁固相萃取-常压质谱联用技术的人体体液中药物分子的快速分析方法研究，2015.06-2017.06，武汉大学研究生自主科研项目（跨学科自主科研项目：药学、化学），41300003，<strong>负责人</strong>（资助金额：2万元）。<br><strong>6. 更多（more）</strong>  </p><ul><li>Google scholar homepage <a href="https://scholar.google.com/citations?user=dp2a1jcAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">https://scholar.google.com/citations?user=dp2a1jcAAAAJ&amp;hl=zh-CN</a>  </li><li>Researchgate homepage <a href="https://www.researchgate.net/profile/Chen_Di2" target="_blank" rel="noopener">https://www.researchgate.net/profile/Chen_Di2</a>  </li><li>Microsoft academic homepage <a href="https://academic.microsoft.com/#/detail/2250586538" target="_blank" rel="noopener">https://academic.microsoft.com/#/detail/2250586538</a>  </li></ul>]]></content>
-    </entry>
-    
-    <entry>
-      <title>shuoshuo</title>
-      <link href="/shuoshuo/index.html"/>
-      <url>/shuoshuo/index.html</url>
-      <content type="html"><![CDATA[<p>这里是我的说说。</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '页面 ID', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('container')</script>]]></content>
     </entry>
     
   
