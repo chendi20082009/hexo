@@ -48,16 +48,16 @@
   
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>badminton</title>
+      <link href="/badminton/index.html"/>
+      <url>/badminton/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>badminton</title>
-      <link href="/badminton/index.html"/>
-      <url>/badminton/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -100,7 +100,7 @@
       <title>我的说说</title>
       <link href="/shuoshuo/hahaha.html"/>
       <url>/shuoshuo/hahaha.html</url>
-      <content type="html"><![CDATA[<p>这里是我的说说——像微博、QQ空间状态、微信朋友圈一样记录自己的只言片语吧~</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('comments')</script><p>gitment.render(‘comments’)<br>// or<br>// gitment.render(document.getElementById(‘comments’))<br>// or<br>// document.body.appendChild(gitment.render())</p>]]></content>
+      <content type="html"><![CDATA[<p>这里是我的说说——像微博、QQ空间状态、微信朋友圈一样记录自己的只言片语吧~</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://github.com/imsun/gitment/blob/master/test/style.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('comments')</script>]]></content>
     </entry>
     
     <entry>
