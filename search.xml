@@ -48,9 +48,9 @@
   
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -62,16 +62,9 @@
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>history</title>
-      <link href="/history/index.html"/>
-      <url>/history/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -80,6 +73,13 @@
       <link href="/message/index.html"/>
       <url>/message/index.html</url>
       <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title>history</title>
+      <link href="/history/index.html"/>
+      <url>/history/index.html</url>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
