@@ -62,13 +62,6 @@
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
       <title>history</title>
       <link href="/history/index.html"/>
       <url>/history/index.html</url>
@@ -76,9 +69,9 @@
     </entry>
     
     <entry>
-      <title>resources</title>
-      <link href="/resources/index.html"/>
-      <url>/resources/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -87,6 +80,13 @@
       <link href="/message/index.html"/>
       <url>/message/index.html</url>
       <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title>resources</title>
+      <link href="/resources/index.html"/>
+      <url>/resources/index.html</url>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
@@ -100,7 +100,7 @@
       <title>shuoshuo</title>
       <link href="/shuoshuo/index.html"/>
       <url>/shuoshuo/index.html</url>
-      <content type="html"><![CDATA[<p>这里是我的说说。</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '页面 ID', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703 ',  },})gitment.render('container')</script>]]></content>
+      <content type="html"><![CDATA[<p>这里是我的说说。</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '页面 ID', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('container')</script>]]></content>
     </entry>
     
   
