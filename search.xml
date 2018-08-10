@@ -62,16 +62,16 @@
     </entry>
     
     <entry>
-      <title>history</title>
-      <link href="/history/index.html"/>
-      <url>/history/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>history</title>
+      <link href="/history/index.html"/>
+      <url>/history/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
