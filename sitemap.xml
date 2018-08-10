@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.chendi.org/2018/07/16/hello-world/</loc>
+    <loc>https://blog.chendi.org/about/index.html</loc>
     
-    <lastmod>2018-08-10T10:05:05.584Z</lastmod>
+    <lastmod>2018-08-10T10:11:13.448Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/08/08/hello-world/</loc>
+    
+    <lastmod>2018-08-10T10:07:04.946Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://blog.chendi.org/message/index.html</loc>
     
     <lastmod>2018-08-09T09:39:31.451Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/about/index.html</loc>
-    
-    <lastmod>2018-08-08T15:57:17.040Z</lastmod>
     
   </url>
   
