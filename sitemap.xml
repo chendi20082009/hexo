@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chendi.org/2018/08/08/inbox/1.advanced-customization-of-hexo/</loc>
+    
+    <lastmod>2018-08-11T03:27:50.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/08/10/inbox/2.First-post/</loc>
+    
+    <lastmod>2018-08-11T02:36:39.279Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chendi.org/2018/08/08/fun/1.picture-play/</loc>
     
     <lastmod>2018-08-10T15:55:28.421Z</lastmod>
@@ -12,20 +26,6 @@
     <loc>https://blog.chendi.org/2018/08/10/about/1.about-site/</loc>
     
     <lastmod>2018-08-10T15:53:31.160Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/10/inbox/2.first-post/</loc>
-    
-    <lastmod>2018-08-10T15:47:54.601Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/08/inbox/1.hello-world/</loc>
-    
-    <lastmod>2018-08-10T15:47:49.970Z</lastmod>
     
   </url>
   

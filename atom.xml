@@ -42,28 +42,28 @@
   </entry>
   
   <entry>
-    <title>正式开始写博客</title>
-    <link href="https://blog.chendi.org/2018/08/10/inbox/2.first-post/"/>
-    <id>https://blog.chendi.org/2018/08/10/inbox/2.first-post/</id>
+    <title>001.正式开始写博客</title>
+    <link href="https://blog.chendi.org/2018/08/10/inbox/2.First-post/"/>
+    <id>https://blog.chendi.org/2018/08/10/inbox/2.First-post/</id>
     <published>2018-08-09T16:00:00.000Z</published>
-    <updated>2018-08-10T15:47:54.601Z</updated>
+    <updated>2018-08-11T02:36:39.279Z</updated>
     
-    <content type="html"><![CDATA[<p>我的第一篇日志</p>]]></content>
+    <content type="html"><![CDATA[<p>我的第一篇日志。</p><p>之前注册过各种博客，如网易博客、百度空间等等，也包括社交化的QQ空间、人人网等；也折腾过wordpress等自行搭建的博客。</p><p>然而大多数情况下都是收藏或者转载，基本没有写过自己的东西。</p><p>希望在接下来的日子里，能坚持写博客，毕竟看的、读的再多，也是别人的知识和经验，经过自己吸收、归纳总结得到的才是自己的。</p><p>同时也希望自己养成一个好习惯。</p><p>本博客中的东西除非特殊声明外，均为原创。</p><hr><p>以下是摘抄自网上的话，很是赞同，特此摘录下来，与诸君共勉！</p><blockquote><p>只有学会坚持，你才能厚积薄发；只有学会整理，你才能条理清晰；只有学会分享，你才能学到更多。坚持写博客，同时对自己的博客负责，争取每一篇博客都能通熟易懂，帮助到那些求知者。 </p><p>——<a href="https://my.csdn.net/Sugar_map" target="_blank" rel="noopener">Sugar_maps</a></p></blockquote><blockquote><p><img src="/2018/08/10/inbox/2.First-post/2.first-post/1533953802827.png" alt="1533953802827"></p><p>——<a href="https://blog.csdn.net/BaiHuaXiu123/article/details/51927445" target="_blank" rel="noopener">刘玉刚–AI-技术研究院</a></p></blockquote><blockquote><p>写博客，多一份不为什么的坚持。</p><p>——<a href="https://www.cnblogs.com/TWS-YIFEI/p/6155099.html" target="_blank" rel="noopener">YIFEI</a></p></blockquote><blockquote><p>一、坚持写作，会逼着自己不断学习、总结和反思</p><p>二、坚持写作，会结交更多的朋友，碰撞火花</p><p>三、坚持写作，也是一种自我营销</p><p>——<a href="https://www.zhihu.com/people/tangjinwinner" target="_blank" rel="noopener">Mr汤进er</a></p></blockquote><blockquote><p>平时解决问题的时候可能考虑进度问题没有更深刻地去理解，但是在写博客的时候，你会不知不觉中对一些内容进行思考，并有可能和评论者一起深入，这些都是难得的机会。 </p><p>——<a href="https://blog.csdn.net/u012611878/article/details/51686322" target="_blank" rel="noopener">MachineChen</a> </p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;我的第一篇日志&lt;/p&gt;
-
+        &lt;p&gt;我的第一篇日志。&lt;/p&gt;
+&lt;p&gt;之前注册过各种博客，如网易博客、百度空间等等，也包括社交化的QQ空间、人人网等；也折腾过wordpress等自行搭建的博客。&lt;/p&gt;
+&lt;p&gt;然而大多数情况下都是收藏或者转载，基本没有写过自己的东西。&lt;/p&gt;
+&lt;p&gt;希望在接下来的日子里，能坚持
       
     
     </summary>
     
       <category term="inbox" scheme="https://blog.chendi.org/categories/inbox/"/>
     
-    
-      <category term="杂七杂八" scheme="https://blog.chendi.org/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
   </entry>
   
@@ -126,29 +126,6 @@
   </entry>
   
   <entry>
-    <title>折腾第一弹</title>
-    <link href="https://blog.chendi.org/2018/08/08/fun/2.video-play/"/>
-    <id>https://blog.chendi.org/2018/08/08/fun/2.video-play/</id>
-    <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-10T14:52:23.330Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>生活第一弹</title>
     <link href="https://blog.chendi.org/2018/08/08/fun/1.picture-play/"/>
     <id>https://blog.chendi.org/2018/08/08/fun/1.picture-play/</id>
@@ -172,11 +149,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://blog.chendi.org/2018/08/08/inbox/1.hello-world/"/>
-    <id>https://blog.chendi.org/2018/08/08/inbox/1.hello-world/</id>
+    <title>折腾第一弹</title>
+    <link href="https://blog.chendi.org/2018/08/08/fun/2.video-play/"/>
+    <id>https://blog.chendi.org/2018/08/08/fun/2.video-play/</id>
     <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-10T15:47:49.970Z</updated>
+    <updated>2018-08-10T14:52:23.330Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -189,10 +166,32 @@
     
     </summary>
     
+      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>002.hexo博客高级功能实现</title>
+    <link href="https://blog.chendi.org/2018/08/08/inbox/1.advanced-customization-of-hexo/"/>
+    <id>https://blog.chendi.org/2018/08/08/inbox/1.advanced-customization-of-hexo/</id>
+    <published>2018-08-08T07:49:46.000Z</published>
+    <updated>2018-08-11T03:27:50.385Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇文章主要是用来记录下maupassant主题的优化与配置过程</p><h4 id="1-hexo初级使用"><a href="#1-hexo初级使用" class="headerlink" title="1. hexo初级使用"></a>1. hexo初级使用</h4><p><strong>创建新的博文（post）</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p><strong>创建新的页面（page）</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page &quot;about&quot;</span><br></pre></td></tr></table></figure><p><strong>清除缓存</strong> </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo</span><br></pre></td></tr></table></figure><p><strong>生成hexo博客</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p><strong>启动服务预览</strong> </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server -p 5000 #更改端口</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server -i 192.168.1.1 #自定义 IP</span><br></pre></td></tr></table></figure><p>关闭预览为Ctrl+C</p><p><strong>部署</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p><strong>监视文件变动</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate --watch #监视文件变动</span><br></pre></td></tr></table></figure><h4 id="2-hexo中级配置"><a href="#2-hexo中级配置" class="headerlink" title="2. hexo中级配置"></a>2. hexo中级配置</h4><h5 id="2-1-友情链接"><a href="#2-1-友情链接" class="headerlink" title="2.1 友情链接"></a>2.1 友情链接</h5><p>待写作</p><h5 id="2-2-添加评论功能作为留言页面"><a href="#2-2-添加评论功能作为留言页面" class="headerlink" title="2.2 添加评论功能作为留言页面"></a>2.2 添加评论功能作为留言页面</h5><p>待写作</p><h5 id="2-3-菜单栏图标更换"><a href="#2-3-菜单栏图标更换" class="headerlink" title="2.3 菜单栏图标更换"></a>2.3 菜单栏图标更换</h5><p>待写作</p><h5 id="2-4-本地搜索同时搜索所有内容"><a href="#2-4-本地搜索同时搜索所有内容" class="headerlink" title="2.4 本地搜索同时搜索所有内容"></a>2.4 本地搜索同时搜索所有内容</h5><p>在Hexo根目录的<code>_config.yml</code>文件中修改类型为all</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">search:</span><br><span class="line">  path: search.xml</span><br><span class="line">  field: all</span><br></pre></td></tr></table></figure><h5 id="2-5-文章按照名字或者日期进行排序"><a href="#2-5-文章按照名字或者日期进行排序" class="headerlink" title="2.5 文章按照名字或者日期进行排序"></a>2.5 文章按照名字或者日期进行排序</h5><p>待写作</p><h5 id="2-6-文章自定义排序"><a href="#2-6-文章自定义排序" class="headerlink" title="2.6 文章自定义排序"></a>2.6 文章自定义排序</h5><p>待写作</p><h5 id="2-7-建站时间"><a href="#2-7-建站时间" class="headerlink" title="2.7 建站时间"></a>2.7 建站时间</h5><p>待写作</p><h5 id="2-8-侧边栏"><a href="#2-8-侧边栏" class="headerlink" title="2.8 侧边栏"></a>2.8 侧边栏</h5><p>待写作</p><h5 id="2-x-更多主题详细配置"><a href="#2-x-更多主题详细配置" class="headerlink" title="2.x 更多主题详细配置"></a>2.x 更多主题详细配置</h5><p><a href="https://www.haomwei.com/technology/maupassant-hexo.html" target="_blank" rel="noopener">https://www.haomwei.com/technology/maupassant-hexo.html</a></p><p><a href="https://github.com/tufu9441/maupassant-hexo" target="_blank" rel="noopener">https://github.com/tufu9441/maupassant-hexo</a></p><h4 id="3-hexo高级配置"><a href="#3-hexo高级配置" class="headerlink" title="3. hexo高级配置"></a>3. hexo高级配置</h4><h5 id="3-1-hexo多终端写作"><a href="#3-1-hexo多终端写作" class="headerlink" title="3.1 hexo多终端写作"></a>3.1 hexo多终端写作</h5><ol><li><p>将hexo博客程序放入dropbox同步文件夹</p><p><img src="/2018/08/08/inbox/1.advanced-customization-of-hexo/1.hello-world/1533955219646.png" alt="1533955219646"></p></li><li><p>将所有PC上的生成SSH key，并将之添加至Github</p><p> <img src="/2018/08/08/inbox/1.advanced-customization-of-hexo/1.hello-world/1533955368148.png" alt="1533955368148"></p></li><li><p>Enjoy！</p></li></ol><h5 id="3-2-hexo设置网站icon图标"><a href="#3-2-hexo设置网站icon图标" class="headerlink" title="3.2 hexo设置网站icon图标"></a>3.2 hexo设置网站icon图标</h5><ol><li><p>若要设置网站Favicon，可以将<strong>favicon.ico</strong>放在Hexo根目录的<code>source</code>文件夹下，建议的大小：32px*32px。</p><p><img src="/2018/08/08/inbox/1.advanced-customization-of-hexo/1.hello-world/1533955548644.png" alt="1533955548644"></p></li><li><p>若要为网站添加苹果设备图标，请将命名为<strong>apple-touch-icon.png</strong>的图片放在同样的位置，建议的大小：114px*114px。</p></li><li><p>Enjoy！</p></li></ol><h5 id="3-3-自动添加目录"><a href="#3-3-自动添加目录" class="headerlink" title="3.3 自动添加目录"></a>3.3 自动添加目录</h5><ol><li><p>在文章的<code>front-matter</code>中添加<code>toc: true</code>即可让该篇文章显示目录。 </p></li><li><p>如果需要新建文档默认显示，则直接在scaffolds目录下post的<code>front-matter</code>中添加<code>toc: true</code><br><img src="/2018/08/08/inbox/1.advanced-customization-of-hexo/1.hello-world/1533955915936.png" alt="1533955915936"></p></li><li>效果图<br><img src="/2018/08/08/inbox/1.advanced-customization-of-hexo/1.hello-world/1533955962982.png" alt="1533955962982"></li></ol><h5 id="3-4-文章加密访问功能"><a href="#3-4-文章加密访问功能" class="headerlink" title="3.4 文章加密访问功能"></a>3.4 文章加密访问功能</h5><p>待写作</p><h5 id="3-5-添加Gitment作为自己的说说-只言片语"><a href="#3-5-添加Gitment作为自己的说说-只言片语" class="headerlink" title="3.5 添加Gitment作为自己的说说/只言片语"></a>3.5 添加Gitment作为自己的说说/只言片语</h5><p>待写作</p><h5 id="3-6-固定page页面作为首页"><a href="#3-6-固定page页面作为首页" class="headerlink" title="3.6  固定page页面作为首页"></a>3.6  固定page页面作为首页</h5><ol><li>卸载hexo-generator-index插件</li><li>并在<code>source</code>文件夹下新建index.md作为首页内容</li></ol><h5 id="3-7-对文章根据分类生成索引并添加菜单栏"><a href="#3-7-对文章根据分类生成索引并添加菜单栏" class="headerlink" title="3.7 对文章根据分类生成索引并添加菜单栏"></a>3.7 对文章根据分类生成索引并添加菜单栏</h5><ol><li><p>添加hexo-generator-index2插件</p></li><li><p>在<code>hexo</code>根目录下的_config.yml中添加以下内容，即可将所有分类名称为web的文章的索引生成后放置在<code>public</code>文件夹下的<code>web</code>文件夹中</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">index2_generator:</span><br><span class="line">  - layout: &apos;archive&apos; # use existing archive layout</span><br><span class="line">    path: &apos;web&apos; # output to web folder: http://127.0.0.1:4000/web/</span><br><span class="line">    per_page: 10</span><br><span class="line">    order_by: -date</span><br><span class="line">    include:</span><br><span class="line">      - category Web # include article which category is Web</span><br><span class="line">    exclude:</span><br><span class="line">      - tag Hexo # exclude article which tag is Hexo</span><br><span class="line">  - layout: &apos;index&apos; # use existing index layout</span><br><span class="line">    path: &apos;&apos; # output to root directory: http://127.0.0.1:4000/</span><br><span class="line">    index: true # Set whether index, results is_home() is true or not</span><br></pre></td></tr></table></figure></li><li><p>在主题的菜单中添加即可</p></li><li><p>可以直接删除<code>hexo</code>根目录下的_config.yml中原先index-generator的内容，或者将之生成后放在一个目录内。再根据需要选择是否添加至菜单。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">index_generator:</span><br><span class="line">  path: &apos;allpost&apos;</span><br><span class="line">  per_page: 10</span><br><span class="line">  order_by: -name</span><br></pre></td></tr></table></figure></li><li><p>更多详细配置</p></li></ol><p><a href="https://github.com/Jamling/hexo-generator-index2" target="_blank" rel="noopener">https://github.com/Jamling/hexo-generator-index2</a></p><h5 id="3-8-在文章中添加本地视频"><a href="#3-8-在文章中添加本地视频" class="headerlink" title="3.8 在文章中添加本地视频"></a>3.8 在文章中添加本地视频</h5><p>待写作</p><h5 id="3-9-在文章中添加本地音乐"><a href="#3-9-在文章中添加本地音乐" class="headerlink" title="3.9 在文章中添加本地音乐"></a>3.9 在文章中添加本地音乐</h5><p>待写作</p><h5 id="3-10"><a href="#3-10" class="headerlink" title="3.10"></a>3.10</h5><p>待写作</p><h5 id="3-11-多图轮播功能"><a href="#3-11-多图轮播功能" class="headerlink" title="3.11 多图轮播功能"></a>3.11 多图轮播功能</h5><p>待写作</p><h5 id="3-12-添加本地pdf，并生成在线预览"><a href="#3-12-添加本地pdf，并生成在线预览" class="headerlink" title="3.12 添加本地pdf，并生成在线预览"></a>3.12 添加本地pdf，并生成在线预览</h5><p>待写作</p><h5 id="3-13-博客加入百度统计和google-analysis"><a href="#3-13-博客加入百度统计和google-analysis" class="headerlink" title="3.13 博客加入百度统计和google analysis"></a>3.13 博客加入百度统计和google analysis</h5><p>待写作</p><h5 id="3-14-Typora进行markdown写作的图片处理方案"><a href="#3-14-Typora进行markdown写作的图片处理方案" class="headerlink" title="3.14 Typora进行markdown写作的图片处理方案"></a>3.14 Typora进行markdown写作的图片处理方案</h5><p>待写作</p><h5 id="3-15-source文件夹下-post文件中Markdown文件的"><a href="#3-15-source文件夹下-post文件中Markdown文件的" class="headerlink" title="3.15 source文件夹下_post文件中Markdown文件的"></a>3.15 <code>source</code>文件夹下<code>_post</code>文件中Markdown文件的</h5><p>待写作</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这篇文章主要是用来记录下maupassant主题的优化与配置过程&lt;/p&gt;
+&lt;h4 id=&quot;1-hexo初级使用&quot;&gt;&lt;a href=&quot;#1-hexo初级使用&quot; class=&quot;headerlink&quot; title=&quot;1. hexo初级使用&quot;&gt;&lt;/a&gt;1. hexo初级使用&lt;/h4
+      
+    
+    </summary>
+    
       <category term="inbox" scheme="https://blog.chendi.org/categories/inbox/"/>
     
-    
-      <category term="杂七杂八" scheme="https://blog.chendi.org/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
   </entry>
   
