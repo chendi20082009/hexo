@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chendi.org/2018/08/10/A2.First-post/</loc>
+    
+    <lastmod>2018-08-11T03:37:35.310Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/08/08/A1.advanced-customization-of-hexo/</loc>
+    
+    <lastmod>2018-08-11T03:37:27.270Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chendi.org/index.html</loc>
     
     <lastmod>2018-08-11T03:31:03.024Z</lastmod>
@@ -9,72 +23,65 @@
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/08/inbox/1.advanced-customization-of-hexo/</loc>
-    
-    <lastmod>2018-08-11T03:27:50.385Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/10/inbox/2.First-post/</loc>
-    
-    <lastmod>2018-08-11T02:36:39.279Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/08/fun/1.picture-play/</loc>
+    <loc>https://blog.chendi.org/2018/08/08/B1.picture-play/</loc>
     
     <lastmod>2018-08-10T15:55:28.421Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/10/about/1.about-site/</loc>
+    <loc>https://blog.chendi.org/2018/08/10/D1.about-site/</loc>
     
     <lastmod>2018-08-10T15:53:31.160Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/08/life/1.hello-world/</loc>
+    <loc>https://blog.chendi.org/2018/08/08/C1.hello-world/</loc>
     
     <lastmod>2018-08-10T15:39:38.901Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/10/life/2.first-post/</loc>
+    <loc>https://blog.chendi.org/2018/08/10/C2.first-post/</loc>
     
     <lastmod>2018-08-10T15:39:34.170Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/09/about/4.history/</loc>
+    <loc>https://blog.chendi.org/2018/08/09/D4.history/</loc>
     
     <lastmod>2018-08-10T15:18:23.252Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/08/about/3.badminton/</loc>
+    <loc>https://blog.chendi.org/2018/08/08/D3.badminton/</loc>
     
     <lastmod>2018-08-10T15:18:10.640Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/07/16/about/2.scholar/</loc>
+    <loc>https://blog.chendi.org/2018/07/16/D2.scholar/</loc>
     
     <lastmod>2018-08-10T15:03:56.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.chendi.org/2018/08/08/fun/2.video-play/</loc>
+    <loc>https://blog.chendi.org/2018/08/08/B2.video-play/</loc>
     
     <lastmod>2018-08-10T14:52:23.330Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/about/index.html</loc>
+    
+    <lastmod>2018-08-10T11:50:07.984Z</lastmod>
     
   </url>
   
