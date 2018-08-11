@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chendi.org/index.html</loc>
+    
+    <lastmod>2018-08-11T03:31:03.024Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chendi.org/2018/08/08/inbox/1.advanced-customization-of-hexo/</loc>
     
     <lastmod>2018-08-11T03:27:50.385Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>https://blog.chendi.org/2018/08/08/fun/2.video-play/</loc>
     
     <lastmod>2018-08-10T14:52:23.330Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/index.html</loc>
-    
-    <lastmod>2018-08-10T14:45:59.150Z</lastmod>
     
   </url>
   
