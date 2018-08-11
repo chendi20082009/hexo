@@ -122,6 +122,29 @@
   </entry>
   
   <entry>
+    <title>B001.生活第一弹</title>
+    <link href="https://blog.chendi.org/2018/08/08/B1.picture-play/"/>
+    <id>https://blog.chendi.org/2018/08/08/B1.picture-play/</id>
+    <published>2018-08-08T07:49:46.000Z</published>
+    <updated>2018-08-11T08:34:34.967Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>A002.正式开始写博客</title>
     <link href="https://blog.chendi.org/2018/08/08/A2.first-post/"/>
     <id>https://blog.chendi.org/2018/08/08/A2.first-post/</id>
@@ -148,24 +171,27 @@
   </entry>
   
   <entry>
-    <title>B001.生活第一弹</title>
-    <link href="https://blog.chendi.org/2018/08/08/B1.picture-play/"/>
-    <id>https://blog.chendi.org/2018/08/08/B1.picture-play/</id>
+    <title>C001. 我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</title>
+    <link href="https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/"/>
+    <id>https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/</id>
     <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T08:34:34.967Z</updated>
+    <updated>2018-08-11T08:34:09.058Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>很多年前写的一篇文章，贴过来作为以后的回忆吧~</p><p>我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</p><p>声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    </p><p>​     昨日下午3点左右，正在打盹中，忽然妹妹短信飞来：“爸爸买了个iphone，还是iphone5”。心头甚为惊讶，忙致电而去，一顿话过后，重点出来了，原来是爹路上被人拦住，推销iphone，只要750元，我爹不买，结果那人死搅蛮缠，最后以300元的价格成功推销给我爹。</p><p>​     你没有听错，300元，是的，300元的iphone，而且还是iphone5.   </p><p>​      天上是不会掉馅饼的，于是让我妹妹是试玩几个游戏，植物大战僵尸，愤怒的小鸟，都流畅运行，电话接打无问题。   </p><p>​     但是心里肯定不信是真的，由于还身在武汉，于是让我妹妹拍几张图片过来。结果如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961313815.png" alt="1533961313815"><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961372455.png" alt="1533961372455"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961407897.png" alt="1533961407897"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961433398.png" alt="1533961433398"></p><p>这外表太像了吧，外表看不出来，于是继续让我妹妹点亮屏幕拍了几张照片。 </p><p>这这。。。。。还是没鉴定出来。但是理智告诉我，300元的iphone肯定是假的，于是让妹妹打开设置里面，拍了几张，估计这下应该可以辨真伪。</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/a8b62800d043d3f7" alt="img"> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8bdf37b25fa75154" alt="img"> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8eceb1d227d1626e" alt="img">  </p><p>我了擦擦。。。。。。莫非我爹捡了个大便宜？？！！</p><p>这货不是真的</p><p>这货不是真的</p><p>这货不是真的</p><p>。。。。。。</p><p>继续让我妹妹上图app store。如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/b8f5f88ddf5e6349" alt="img"> </p><p>终于现了原型了，自此鉴定工作终于宣告完毕。</p><p>对此，不得不说，中国山寨能力真是强悍啊。</p><p>两个字，”服了!”</p><p>但是心里还是有一点儿犯嘀咕：300元的能运行愤怒的小鸟、植物大战僵尸的仿iphone手机，能赚钱么？</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;很多年前写的一篇文章，贴过来作为以后的回忆吧~&lt;/p&gt;
+&lt;p&gt;我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！&lt;/p&gt;
+&lt;p&gt;声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    &lt;/p&gt;
+&lt;p&gt;​     昨日下午3点左
       
     
     </summary>
     
-      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
+      <category term="life" scheme="https://blog.chendi.org/categories/life/"/>
     
     
   </entry>
@@ -189,32 +215,6 @@
     </summary>
     
       <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>C001. 我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</title>
-    <link href="https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/"/>
-    <id>https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/</id>
-    <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T08:34:09.058Z</updated>
-    
-    <content type="html"><![CDATA[<p>很多年前写的一篇文章，贴过来作为以后的回忆吧~</p><p>我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</p><p>声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    </p><p>​     昨日下午3点左右，正在打盹中，忽然妹妹短信飞来：“爸爸买了个iphone，还是iphone5”。心头甚为惊讶，忙致电而去，一顿话过后，重点出来了，原来是爹路上被人拦住，推销iphone，只要750元，我爹不买，结果那人死搅蛮缠，最后以300元的价格成功推销给我爹。</p><p>​     你没有听错，300元，是的，300元的iphone，而且还是iphone5.   </p><p>​      天上是不会掉馅饼的，于是让我妹妹是试玩几个游戏，植物大战僵尸，愤怒的小鸟，都流畅运行，电话接打无问题。   </p><p>​     但是心里肯定不信是真的，由于还身在武汉，于是让我妹妹拍几张图片过来。结果如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961313815.png" alt="1533961313815"><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961372455.png" alt="1533961372455"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961407897.png" alt="1533961407897"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961433398.png" alt="1533961433398"></p><p>这外表太像了吧，外表看不出来，于是继续让我妹妹点亮屏幕拍了几张照片。 </p><p>这这。。。。。还是没鉴定出来。但是理智告诉我，300元的iphone肯定是假的，于是让妹妹打开设置里面，拍了几张，估计这下应该可以辨真伪。</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/a8b62800d043d3f7" alt="img"> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8bdf37b25fa75154" alt="img"> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8eceb1d227d1626e" alt="img">  </p><p>我了擦擦。。。。。。莫非我爹捡了个大便宜？？！！</p><p>这货不是真的</p><p>这货不是真的</p><p>这货不是真的</p><p>。。。。。。</p><p>继续让我妹妹上图app store。如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/b8f5f88ddf5e6349" alt="img"> </p><p>终于现了原型了，自此鉴定工作终于宣告完毕。</p><p>对此，不得不说，中国山寨能力真是强悍啊。</p><p>两个字，”服了!”</p><p>但是心里还是有一点儿犯嘀咕：300元的能运行愤怒的小鸟、植物大战僵尸的仿iphone手机，能赚钱么？</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;很多年前写的一篇文章，贴过来作为以后的回忆吧~&lt;/p&gt;
-&lt;p&gt;我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！&lt;/p&gt;
-&lt;p&gt;声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    &lt;/p&gt;
-&lt;p&gt;​     昨日下午3点左
-      
-    
-    </summary>
-    
-      <category term="life" scheme="https://blog.chendi.org/categories/life/"/>
     
     
   </entry>
