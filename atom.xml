@@ -108,20 +108,24 @@
   </entry>
   
   <entry>
-    <title>B003.移动办公第三节：利用NAS搭建课题组数据备份、共享平台</title>
-    <link href="https://blog.chendi.org/2018/08/08/B3.nas-for-group/"/>
-    <id>https://blog.chendi.org/2018/08/08/B3.nas-for-group/</id>
+    <title>B001.移动办公第一节：如何同步Endnote</title>
+    <link href="https://blog.chendi.org/2018/08/08/B1.backup-files-and-sync/"/>
+    <id>https://blog.chendi.org/2018/08/08/B1.backup-files-and-sync/</id>
     <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T09:09:22.567Z</updated>
+    <updated>2018-08-11T09:07:05.820Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="1-NAS是什么？"><a href="#1-NAS是什么？" class="headerlink" title="1. NAS是什么？"></a>1. NAS是什么？</h3><p>NAS作为一个备份服务器，超级管理员拥有上帝视角，</p><p>可以做到：</p><ol><li>在每个人的本地电脑上有，在NAS上也存有一份。</li><li></li></ol><p>可以采用NAS组建实验室大局域网，将每一台电脑连接至此NAS，即可将数据自动的备份至NAS服务器。</p><p>待写作。。。。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Dropbox是一个优秀的同步工具，Dropbox的一些功能特性：</strong></p><p>1、全平台；</p><p>2、多平台间同步；</p><p>3、支持文件夹共享；</p><p>4、能邀请好友获得空间；</p><p>5、版本控制；</p><p>Dropbox 只能同步指定的目录，不过对于我们制定的服务而言，是足够的了。</p><p>Dropbox与百度云是不同的，Dropbox是同步盘，百度云是网络硬盘</p><p>（曾经试着用百度云进行同步，但完全不行，经常容易把文件损坏。）</p><p>Dropbox同步稳定，功能简单，把多设备高错误率增量实时自动同步及版本控制做对，同步盘可不是那么容易的，就这么个无比简单的需求,做到极致就能变成全球第一。</p><p><strong>问：onedrive不需要代理即可使用，为什么不用onedrive？</strong></p><p>答：onedrive没有版本控制功能（现在已经添加历史版本功能了，但同步稳定性和速度还比不上dropbox），而Dropbox有很好的版本控制功能，而Endnote中的附件我们可能需要去标记一些东西，Dropbox的版本控制功能可以很好的帮助我们同步，真正做到随时随地在不同的PC设备间对endnote进行处理，而且同步速度极快。</p><p><strong>问：为什么不用百度云？</strong></p><p>答：在这里大家要需要明白网硬和同步盘的区别，百度云相当于网盘，而dropbox才是真正的同步盘。</p><p><strong>问：为什么不用移动硬盘？</strong></p><p>答：Dropbox仅仅是作为一个中转服务器，就是说三重备份；而且不永额外购买硬盘，最关键的是配置好用实验室编辑的文件回到家里即可直接打开使用重新编辑，完全做到同步办公。</p><p><strong>问：Google drive怎么样？</strong></p><p>Dropbox是免费用户有30天之内的历史版本回溯期，google 的服务可信度应该是很高的，但从网络上的情况来看，采用google drive进行同步的人很少，由于个人也没有那么多的时间和精力去验证速度和稳定性，所以还是选择大多数人应用最多的工具，最为稳妥和靠谱。</p><p><strong>问：国产的有没有其它的替代方案？</strong></p><p>答：国产的坚果云不错，只不过免费版空间、流量比较小，付费版可以。</p><p><strong>其它：</strong></p><ol><li>国内网盘对隐私的保护实在不敢恭维，国外网盘在隐私保护这方面做的的确是非常好的。</li></ol><hr><ul><li>将Endnote library直接放入Dropbox内；</li><li>然后在自己的所有PC上装好Dropbox，设置宝路径，就可以开启同步办公模式了；</li><li>从淘宝上买点小钱买个dropbox扩容服务，可以扩容至18G，对于同步endnote library足够了。</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;1-NAS是什么？&quot;&gt;&lt;a href=&quot;#1-NAS是什么？&quot; class=&quot;headerlink&quot; title=&quot;1. NAS是什么？&quot;&gt;&lt;/a&gt;1. NAS是什么？&lt;/h3&gt;&lt;p&gt;NAS作为一个备份服务器，超级管理员拥有上帝视角，&lt;/p&gt;
-&lt;p&gt;可以做到：&lt;/
+        &lt;p&gt;&lt;strong&gt;Dropbox是一个优秀的同步工具，Dropbox的一些功能特性：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1、全平台；&lt;/p&gt;
+&lt;p&gt;2、多平台间同步；&lt;/p&gt;
+&lt;p&gt;3、支持文件夹共享；&lt;/p&gt;
+&lt;p&gt;4、能邀请好友获得空间；&lt;/p&gt;
+&lt;p&gt;5、版本控制；&lt;/p
       
     
     </summary>
@@ -132,51 +136,20 @@
   </entry>
   
   <entry>
-    <title>C001. 我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</title>
-    <link href="https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/"/>
-    <id>https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/</id>
+    <title>B004.移动办公第三节：采用onedrive将自己的所有文件搬到云端</title>
+    <link href="https://blog.chendi.org/2018/08/08/B4.onedrive/"/>
+    <id>https://blog.chendi.org/2018/08/08/B4.onedrive/</id>
     <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T12:48:14.414Z</updated>
+    <updated>2018-08-11T09:11:36.492Z</updated>
     
-    <content type="html"><![CDATA[<p>很多年前写的一篇文章，贴过来作为以后的回忆吧~</p><p>我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</p><p>声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    </p><p>​     昨日下午3点左右，正在打盹中，忽然妹妹短信飞来：“爸爸买了个iphone，还是iphone5”。心头甚为惊讶，忙致电而去，一顿话过后，重点出来了，原来是爹路上被人拦住，推销iphone，只要750元，我爹不买，结果那人死搅蛮缠，最后以300元的价格成功推销给我爹。</p><p>​     你没有听错，300元，是的，300元的iphone，而且还是iphone5.   </p><p>​      天上是不会掉馅饼的，于是让我妹妹是试玩几个游戏，植物大战僵尸，愤怒的小鸟，都流畅运行，电话接打无问题。   </p><p>​     但是心里肯定不信是真的，由于还身在武汉，于是让我妹妹拍几张图片过来。结果如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961313815.png" alt="1533961313815"><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961372455.png" alt="1533961372455"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961407897.png" alt="1533961407897"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961433398.png" alt="1533961433398"></p><p>这外表太像了吧，外表看不出来，于是继续让我妹妹点亮屏幕拍了几张照片。 </p><p>这这。。。。。还是没鉴定出来。但是理智告诉我，300元的iphone肯定是假的，于是让妹妹打开设置里面，拍了几张，估计这下应该可以辨真伪。</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/a8b62800d043d3f7.png" alt=""> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8bdf37b25fa75154.png" alt=""> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8eceb1d227d1626e.png" alt="">  </p><p>我了擦擦。。。。。。莫非我爹捡了个大便宜？？！！</p><p>这货不是真的</p><p>这货不是真的</p><p>这货不是真的</p><p>。。。。。。</p><p>继续让我妹妹上图app store。如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/b8f5f88ddf5e6349" alt="img"> </p><p>终于现了原型了，自此鉴定工作终于宣告完毕。</p><p>对此，不得不说，中国山寨能力真是强悍啊。</p><p>两个字，”服了!”</p><p>但是心里还是有一点儿犯嘀咕：300元的能运行愤怒的小鸟、植物大战僵尸的仿iphone手机，能赚钱么？</p>]]></content>
+    <content type="html"><![CDATA[<p>TB级别文件备份方案</p><p>待写作。。。。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;很多年前写的一篇文章，贴过来作为以后的回忆吧~&lt;/p&gt;
-&lt;p&gt;我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！&lt;/p&gt;
-&lt;p&gt;声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    &lt;/p&gt;
-&lt;p&gt;​     昨日下午3点左
-      
-    
-    </summary>
-    
-      <category term="life" scheme="https://blog.chendi.org/categories/life/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>B002.移动办公第二节：利用有道云笔记进行收藏</title>
-    <link href="https://blog.chendi.org/2018/08/08/B2.youdao-note-for-collect/"/>
-    <id>https://blog.chendi.org/2018/08/08/B2.youdao-note-for-collect/</id>
-    <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T08:58:21.931Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>全平台收藏解决方案：</strong></p><ol><li>微信文章收藏</li><li>微博收藏</li><li>网页剪辑</li><li>图片收藏</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;全平台收藏解决方案：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;微信文章收藏&lt;/li&gt;
-&lt;li&gt;微博收藏&lt;/li&gt;
-&lt;li&gt;网页剪辑&lt;/li&gt;
-&lt;li&gt;图片收藏&lt;/li&gt;
-&lt;/ol&gt;
+        &lt;p&gt;TB级别文件备份方案&lt;/p&gt;
+&lt;p&gt;待写作。。。。&lt;/p&gt;
 
       
     
@@ -212,34 +185,6 @@
   </entry>
   
   <entry>
-    <title>B001.移动办公第一节：如何同步Endnote</title>
-    <link href="https://blog.chendi.org/2018/08/08/B1.backup-files-and-sync/"/>
-    <id>https://blog.chendi.org/2018/08/08/B1.backup-files-and-sync/</id>
-    <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T09:07:05.820Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Dropbox是一个优秀的同步工具，Dropbox的一些功能特性：</strong></p><p>1、全平台；</p><p>2、多平台间同步；</p><p>3、支持文件夹共享；</p><p>4、能邀请好友获得空间；</p><p>5、版本控制；</p><p>Dropbox 只能同步指定的目录，不过对于我们制定的服务而言，是足够的了。</p><p>Dropbox与百度云是不同的，Dropbox是同步盘，百度云是网络硬盘</p><p>（曾经试着用百度云进行同步，但完全不行，经常容易把文件损坏。）</p><p>Dropbox同步稳定，功能简单，把多设备高错误率增量实时自动同步及版本控制做对，同步盘可不是那么容易的，就这么个无比简单的需求,做到极致就能变成全球第一。</p><p><strong>问：onedrive不需要代理即可使用，为什么不用onedrive？</strong></p><p>答：onedrive没有版本控制功能（现在已经添加历史版本功能了，但同步稳定性和速度还比不上dropbox），而Dropbox有很好的版本控制功能，而Endnote中的附件我们可能需要去标记一些东西，Dropbox的版本控制功能可以很好的帮助我们同步，真正做到随时随地在不同的PC设备间对endnote进行处理，而且同步速度极快。</p><p><strong>问：为什么不用百度云？</strong></p><p>答：在这里大家要需要明白网硬和同步盘的区别，百度云相当于网盘，而dropbox才是真正的同步盘。</p><p><strong>问：为什么不用移动硬盘？</strong></p><p>答：Dropbox仅仅是作为一个中转服务器，就是说三重备份；而且不永额外购买硬盘，最关键的是配置好用实验室编辑的文件回到家里即可直接打开使用重新编辑，完全做到同步办公。</p><p><strong>问：Google drive怎么样？</strong></p><p>Dropbox是免费用户有30天之内的历史版本回溯期，google 的服务可信度应该是很高的，但从网络上的情况来看，采用google drive进行同步的人很少，由于个人也没有那么多的时间和精力去验证速度和稳定性，所以还是选择大多数人应用最多的工具，最为稳妥和靠谱。</p><p><strong>问：国产的有没有其它的替代方案？</strong></p><p>答：国产的坚果云不错，只不过免费版空间、流量比较小，付费版可以。</p><p><strong>其它：</strong></p><ol><li>国内网盘对隐私的保护实在不敢恭维，国外网盘在隐私保护这方面做的的确是非常好的。</li></ol><hr><ul><li>将Endnote library直接放入Dropbox内；</li><li>然后在自己的所有PC上装好Dropbox，设置宝路径，就可以开启同步办公模式了；</li><li>从淘宝上买点小钱买个dropbox扩容服务，可以扩容至18G，对于同步endnote library足够了。</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;Dropbox是一个优秀的同步工具，Dropbox的一些功能特性：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1、全平台；&lt;/p&gt;
-&lt;p&gt;2、多平台间同步；&lt;/p&gt;
-&lt;p&gt;3、支持文件夹共享；&lt;/p&gt;
-&lt;p&gt;4、能邀请好友获得空间；&lt;/p&gt;
-&lt;p&gt;5、版本控制；&lt;/p
-      
-    
-    </summary>
-    
-      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>A002.正式开始写博客</title>
     <link href="https://blog.chendi.org/2018/08/08/A2.first-post/"/>
     <id>https://blog.chendi.org/2018/08/08/A2.first-post/</id>
@@ -266,26 +211,81 @@
   </entry>
   
   <entry>
-    <title>B004.移动办公第三节：采用onedrive将自己的所有文件搬到云端</title>
-    <link href="https://blog.chendi.org/2018/08/08/B4.onedrive/"/>
-    <id>https://blog.chendi.org/2018/08/08/B4.onedrive/</id>
+    <title>B002.移动办公第二节：利用有道云笔记进行收藏</title>
+    <link href="https://blog.chendi.org/2018/08/08/B2.youdao-note-for-collect/"/>
+    <id>https://blog.chendi.org/2018/08/08/B2.youdao-note-for-collect/</id>
     <published>2018-08-08T07:49:46.000Z</published>
-    <updated>2018-08-11T09:11:36.492Z</updated>
+    <updated>2018-08-11T08:58:21.931Z</updated>
     
-    <content type="html"><![CDATA[<p>TB级别文件备份方案</p><p>待写作。。。。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>全平台收藏解决方案：</strong></p><ol><li>微信文章收藏</li><li>微博收藏</li><li>网页剪辑</li><li>图片收藏</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;TB级别文件备份方案&lt;/p&gt;
-&lt;p&gt;待写作。。。。&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;全平台收藏解决方案：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;微信文章收藏&lt;/li&gt;
+&lt;li&gt;微博收藏&lt;/li&gt;
+&lt;li&gt;网页剪辑&lt;/li&gt;
+&lt;li&gt;图片收藏&lt;/li&gt;
+&lt;/ol&gt;
 
       
     
     </summary>
     
       <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>B003.移动办公第三节：利用NAS搭建课题组数据备份、共享平台</title>
+    <link href="https://blog.chendi.org/2018/08/08/B3.nas-for-group/"/>
+    <id>https://blog.chendi.org/2018/08/08/B3.nas-for-group/</id>
+    <published>2018-08-08T07:49:46.000Z</published>
+    <updated>2018-08-11T09:09:22.567Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-NAS是什么？"><a href="#1-NAS是什么？" class="headerlink" title="1. NAS是什么？"></a>1. NAS是什么？</h3><p>NAS作为一个备份服务器，超级管理员拥有上帝视角，</p><p>可以做到：</p><ol><li>在每个人的本地电脑上有，在NAS上也存有一份。</li><li></li></ol><p>可以采用NAS组建实验室大局域网，将每一台电脑连接至此NAS，即可将数据自动的备份至NAS服务器。</p><p>待写作。。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-NAS是什么？&quot;&gt;&lt;a href=&quot;#1-NAS是什么？&quot; class=&quot;headerlink&quot; title=&quot;1. NAS是什么？&quot;&gt;&lt;/a&gt;1. NAS是什么？&lt;/h3&gt;&lt;p&gt;NAS作为一个备份服务器，超级管理员拥有上帝视角，&lt;/p&gt;
+&lt;p&gt;可以做到：&lt;/
+      
+    
+    </summary>
+    
+      <category term="fun" scheme="https://blog.chendi.org/categories/fun/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C001. 我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</title>
+    <link href="https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/"/>
+    <id>https://blog.chendi.org/2018/08/08/C1.buy-iphone-by-my-dad/</id>
+    <published>2018-08-08T07:49:46.000Z</published>
+    <updated>2018-08-11T12:51:52.570Z</updated>
+    
+    <content type="html"><![CDATA[<p>很多年前写的一篇文章，贴过来作为以后的回忆吧~</p><p>我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！</p><p>声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    </p><p>​     昨日下午3点左右，正在打盹中，忽然妹妹短信飞来：“爸爸买了个iphone，还是iphone5”。心头甚为惊讶，忙致电而去，一顿话过后，重点出来了，原来是爹路上被人拦住，推销iphone，只要750元，我爹不买，结果那人死搅蛮缠，最后以300元的价格成功推销给我爹。</p><p>​     你没有听错，300元，是的，300元的iphone，而且还是iphone5.   </p><p>​      天上是不会掉馅饼的，于是让我妹妹是试玩几个游戏，植物大战僵尸，愤怒的小鸟，都流畅运行，电话接打无问题。   </p><p>​     但是心里肯定不信是真的，由于还身在武汉，于是让我妹妹拍几张图片过来。结果如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961313815.png" alt="1533961313815"><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961372455.png" alt="1533961372455"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961407897.png" alt="1533961407897"></p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/1533961433398.png" alt="1533961433398"></p><p>这外表太像了吧，外表看不出来，于是继续让我妹妹点亮屏幕拍了几张照片。 </p><p>这这。。。。。还是没鉴定出来。但是理智告诉我，300元的iphone肯定是假的，于是让妹妹打开设置里面，拍了几张，估计这下应该可以辨真伪。</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/a8b62800d043d3f7.png" alt=""> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8bdf37b25fa75154.png" alt=""> </p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/8eceb1d227d1626e.png" alt="">  </p><p>我了擦擦。。。。。。莫非我爹捡了个大便宜？？！！</p><p>这货不是真的</p><p>这货不是真的</p><p>这货不是真的</p><p>。。。。。。</p><p>继续让我妹妹上图app store。如下：</p><p><img src="/2018/08/08/C1.buy-iphone-by-my-dad/b8f5f88ddf5e6349.png" alt="img"> </p><p>终于现了原型了，自此鉴定工作终于宣告完毕。</p><p>对此，不得不说，中国山寨能力真是强悍啊。</p><p>两个字，”服了!”</p><p>但是心里还是有一点儿犯嘀咕：300元的能运行愤怒的小鸟、植物大战僵尸的仿iphone手机，能赚钱么？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;很多年前写的一篇文章，贴过来作为以后的回忆吧~&lt;/p&gt;
+&lt;p&gt;我爹买了个iphone，猜猜花了多少钱？为中国强大的山寨能力跪了！&lt;/p&gt;
+&lt;p&gt;声明：真实事情，本来没有写日志的习惯，这个算是仅仅是实验之余小插曲吧，聊以自娱。    &lt;/p&gt;
+&lt;p&gt;​     昨日下午3点左
+      
+    
+    </summary>
+    
+      <category term="life" scheme="https://blog.chendi.org/categories/life/"/>
     
     
   </entry>
