@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chendi.org/2018/08/09/D4.history/</loc>
+    
+    <lastmod>2018-08-11T04:03:33.317Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/08/08/D3.badminton/</loc>
+    
+    <lastmod>2018-08-11T04:03:20.071Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/07/16/D2.scholar/</loc>
+    
+    <lastmod>2018-08-11T04:03:07.281Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.chendi.org/2018/08/10/D1.about-site/</loc>
+    
+    <lastmod>2018-08-11T04:02:45.674Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chendi.org/2018/08/08/A2.first-post/</loc>
     
     <lastmod>2018-08-11T03:59:53.047Z</lastmod>
@@ -12,13 +40,6 @@
     <loc>https://blog.chendi.org/2018/08/08/A1.advanced-customization-of-hexo/</loc>
     
     <lastmod>2018-08-11T03:52:32.485Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/10/D1.about-site/</loc>
-    
-    <lastmod>2018-08-11T03:44:04.008Z</lastmod>
     
   </url>
   
@@ -47,27 +68,6 @@
     <loc>https://blog.chendi.org/2018/08/10/C2.first-post/</loc>
     
     <lastmod>2018-08-10T15:39:34.170Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/09/D4.history/</loc>
-    
-    <lastmod>2018-08-10T15:18:23.252Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/08/08/D3.badminton/</loc>
-    
-    <lastmod>2018-08-10T15:18:10.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.chendi.org/2018/07/16/D2.scholar/</loc>
-    
-    <lastmod>2018-08-10T15:03:56.000Z</lastmod>
     
   </url>
   
