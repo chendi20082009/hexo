@@ -51,7 +51,7 @@
       <title>D003.我爱羽毛球</title>
       <link href="/2018/08/08/D3.badminton/"/>
       <url>/2018/08/08/D3.badminton/</url>
-      <content type="html"><![CDATA[]]></content>
+      <content type="html"><![CDATA[<p>以此记录一下我和羽毛球的不解之情（流水账）~</p><p>大一：开始接接触羽毛球。</p><p>大一至大三：始终室外打野球，3块钱的球。</p><p>大三：购买了第一支单拍（杂牌），155元。</p><p>大四：进入室内打羽毛球</p><p>研一：购买第一支贵的拍子：Victor nano6 (~500元)</p><p>研一至博三：开始参加一些院级和校级羽毛球赛。</p><hr><p>下面是从研一开始的一些比赛，每年一次的全校研究生赛和每年一次的全校羽毛球赛（包括本科生）以及一次理学部羽毛球赛。</p><p><strong>2013年12月-武汉大学研究生羽毛球赛——男子双打三等奖（四强、并列第三名）</strong></p><p><img src="/2018/08/08/D3.badminton/2013年12月-武汉大学研究生羽毛球赛-男子双打三等奖.jpg" alt="2013年12月-武汉大学研究生羽毛球赛-男子双打三等奖"></p><p><strong>2014年3月-武汉大学学生羽毛球比赛——未获名次（32强）</strong></p><p>​    32进16时遇到了男双亚军</p><p><strong>2014年12月-武汉大学研究生羽毛球比赛-男子双打第五名</strong></p><p><img src="/2018/08/08/D3.badminton/2014年12月-武汉大学研究生羽毛球比赛-男子双打第五名.jpg" alt="2014年12月-武汉大学研究生羽毛球比赛-男子双打第五名"></p><p><strong>2015年3月-武汉大学“RSL”杯学生羽毛球锦标赛-男子双打第五名</strong></p><p><img src="/2018/08/08/D3.badminton/2015年3月-武汉大学“RSL”杯学生羽毛球锦标赛-男子双打第五名.jpg" alt="2015年3月-武汉大学&quot;RSL&quot;杯学生羽毛球锦标赛-男子双打第五名"></p><p><strong>2015年12月-武汉大学研究生羽毛球赛-男子双打第五名</strong></p><p><img src="/2018/08/08/D3.badminton/2015年12月-武汉大学研究生羽毛球赛-男子双打第五名.jpg" alt=""></p><p><strong>2016年4月-武汉大学学生羽毛球赛-甲组男子双打第五名</strong></p><p><img src="/2018/08/08/D3.badminton/2016年4月-武汉大学学生羽毛球赛-甲组男子双打第五名.jpg" alt=""></p><p><strong>2016年5月-武汉大学首届理学部羽毛球比赛-团体冠军、男双亚军</strong></p><p><img src="/2018/08/08/D3.badminton/2016年5月-武汉大学首届理学部羽毛球比赛-团体冠军.jpg" alt=""></p><p><img src="/2018/08/08/D3.badminton/2016年武汉大学首届理学部羽毛球比赛-男子双打亚军.jpg" alt=""></p><p><strong>2016年12月-武汉大学研究生羽毛球赛-混合双打第五名</strong></p><p><img src="/2018/08/08/D3.badminton/2016年12月-武汉大学研究生羽毛球赛-混合双打第五名.jpg" alt=""></p><p><strong>2017年4月-武汉大学学生羽毛球赛-混双（普通生组）第三名</strong></p><p><img src="/2018/08/08/D3.badminton/2017年4月-武汉大学学生羽毛球赛-混双普通生组第三名.jpg" alt=""></p>]]></content>
       
       <categories>
           
@@ -207,10 +207,10 @@
     </entry>
     
     <entry>
-      <title>留言板</title>
-      <link href="/message/index.html"/>
-      <url>/message/index.html</url>
-      <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
+      <title>我的说说</title>
+      <link href="/shuoshuo/index.html"/>
+      <url>/shuoshuo/index.html</url>
+      <content type="html"><![CDATA[<p>这里是我的说说——像微博、QQ空间状态、微信朋友圈一样记录自己的只言片语吧~</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('container')</script>]]></content>
     </entry>
     
     <entry>
@@ -221,10 +221,10 @@
     </entry>
     
     <entry>
-      <title>我的说说</title>
-      <link href="/shuoshuo/index.html"/>
-      <url>/shuoshuo/index.html</url>
-      <content type="html"><![CDATA[<p>这里是我的说说——像微博、QQ空间状态、微信朋友圈一样记录自己的只言片语吧~</p><p><div id="container"></div></p><p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: '', // 可选。默认为 location.href  owner: 'chendi20082009', // 可以是你的GitHub用户名，也可以是github id   repo: 'hexo',  oauth: {    client_id: '97129c6cc99fa43ce77a',    client_secret: '04e2facd70b07cda2bdbf890cd793a78e404b703',  },})gitment.render('container')</script>]]></content>
+      <title>留言板</title>
+      <link href="/message/index.html"/>
+      <url>/message/index.html</url>
+      <content type="html"><![CDATA[<p>请在这里给我留言吧~</p><p><img src="/message/index/1533734397340.png" alt="1533734397340"></p>]]></content>
     </entry>
     
   
